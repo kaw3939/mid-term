@@ -1,5 +1,7 @@
 IS 683 Mid-Term Exam – Job Interview
 
+You can submit your answers to these questions in an email to me OR for extra credit of 10% answer these questions in a file along with your programing assignment and submit the answers using GITHub, when you submit the programming portion.   Each of these questions is worth 2.5 points for a total of 50 points.  Your programming test is worth 5 Point per part for a total of 50 points.  The entire exam is worth 100 points.
+
 Job Description
 
 Company XYZ is hiring an entry level PHP programmer to maintain and develop custom applications in PHP.   You will expected to be able to write object oriented PHP code, SQL queries, HTML, CSS, and Javascript/Jquery.  
@@ -8,26 +10,23 @@ Applicants should be able to work in teams and should have experience using a ve
 
 We are hiring an entry
 
-1.	Why do you want to be a web developer?
-2.	What does the acronym KISS mean and how does following this make you a better computer programmer?
-3.	What does the acronym DRY mean and why is it an essential principle of being a good computer programmer?
-4.	What is the difference between a database like MongoDB and MySQL?
-5.	If you were asked to write a program that could write at least 50 different HTML tags how would you do it?
-6.	What software design pattern would you be demonstrating in in the above solution?
-7.	What version control system(s) have you used?
-8.	What is GitHub and have you ever used it?  
-9.	What is the command to create a GIT repository
-10.	What is the command to tell GIT to start tracking the file?
-11.	What is the command to commit your changes to the GIT log?
-12.	What is the command to add a remote repository?
-13.	What is the command to send your committed changes to the remote repository?
-14.	What is your experience working in a software development team?
-15.	How would you create a new file in linux?
-16.	How would you create a directory in linux?
-17.	How would you set the permissions on a file / folder, so that another user can write to it.   i.e. so you the webserver can upload a file to the directory.
-18.	What program do you use to write your PHP code?
-19.	What is a constructor in PHP and how/why would you use it?
-20.	What is the difference between a class and an object?
-21.	Why is it important to comment / document your code?
-22.	What traits do you think a good computer programmer has?
-
+1.	What does the acronym KISS mean and how does following this make you a better computer programmer?
+2.	What does the acronym DRY mean and why is it an essential principle of being a good computer programmer?
+3.	What is the difference between a database like MongoDB and MySQL?
+4.	If you were asked to write a program that could write at least 50 different HTML tags how would you do it?
+5.	What software design pattern would you be demonstrating in in the above solution?
+6.	What version control system(s) have you used?
+7.	What is GitHub and have you ever used it?  
+8.	What is the command to create a GIT repository
+9.	What is the command to tell GIT to start tracking the file?
+10.	What is the command to commit your changes to the GIT log?
+11.	What is the command to add a remote repository?
+12.	What is the command to send your committed changes to the remote repository?
+13.	What is your experience working in a software development team?
+14.	How would you create a new file and directory in linux?
+15.	How would you set the permissions on a file / folder, so that another user can write to it.   i.e. so you the webserver can upload a file to the directory.
+16.	What program do you use to write your PHP code?
+17.	What is a constructor in PHP and how/why would you use it?
+18.	What is the difference between a class and an object?
+19.	Why is it important to comment / document your code?
+20.	What traits do you think a good computer programmer has?
